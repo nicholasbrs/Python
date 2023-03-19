@@ -28,6 +28,9 @@ def click(event):
                 value = ""
                 Scvalue.set(value)
 
+   # LANGKAH 6 WASGBLOB ( MENAMBAHKAN KOMENTAR )        
+                
+                
         Scvalue.set(value)
         screen.update()
 
